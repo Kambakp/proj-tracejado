@@ -1,2 +1,2 @@
 # proj-combinados
-Implementação do https://www.adconexao.com para o https://cursos.adconexao
+Projecto arquitetônico para treinar programação.
